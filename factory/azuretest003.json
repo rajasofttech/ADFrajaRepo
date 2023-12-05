@@ -1,0 +1,9 @@
+{
+	"name": "azuretest003",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80ed519a-9ed1-4197-9d1a-933682793b50",
+		"tenantId": "2fce0834-5cd6-4886-9c99-7e96cc3be177"
+	}
+}
